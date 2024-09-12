@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f8ff; /* Cold color */
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #003366; /* Cold color */
+    color: #ffd700; /* Gold accent */
+    padding: 1em;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 1em;
+}
+
+nav ul li a {
+    color: #ffd700; /* Gold accent */
+    text-decoration: none;
+}
+
+section {
+    padding: 2em;
+    border-bottom: 1px solid #ccc;
+}
+
+footer {
+    background-color: #003366; /* Cold color */
+    color: #ffd700; /* Gold accent */
+    text-align: center;
+    padding: 1em;
+}
+
+input[type="file"] {
+    display: block;
+    margin: 1em 0;
+}
